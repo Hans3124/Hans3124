@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I´M HANS, I AM A DEVELOPER STUDENT, I LIKE WEB DEVELOPMENT, COOK AND MEDICINE
 <!--
 **Hans3124/Hans3124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
